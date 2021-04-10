@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 9c974275e31a5ca47a24fb4203b96e0b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box01-FACES.001
+    second: {fileID: 2100000, guid: 8a5a7acfc51e7ec479a4fe59c126887d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box02-FACES
+    second: {fileID: 2100000, guid: 53c42116088c2f743864f9e4fb140028, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box03-FACES
+    second: {fileID: 2100000, guid: b09bf288d9737c0459cb78ac5eb52839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box04-FACES
+    second: {fileID: 2100000, guid: 6f89eb7980769b24d98bcec3d5f47014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box05-FACES
+    second: {fileID: 2100000, guid: dcc7df0611980de469c02678ee711e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box06-FACES
+    second: {fileID: 2100000, guid: 073ff0155999fae49bc9c857a5e232b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box07-FACES
+    second: {fileID: 2100000, guid: a6ada1556187fdc4d9e334087b947f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box08-FACES
+    second: {fileID: 2100000, guid: 7e4b08fc3cfa2fd4c82cecbaaad34636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box09-FACES
+    second: {fileID: 2100000, guid: 8a4842de46307c14eae91ac85f47f95a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box10-FACES
+    second: {fileID: 2100000, guid: a23a18188b366f34cb2faec564063bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box11-FACES
+    second: {fileID: 2100000, guid: d1cf988179d8e1b4988afded594c2b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone01-FACES
+    second: {fileID: 2100000, guid: c6a31898c52147d4288f1fa865c82bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone02-FACES
+    second: {fileID: 2100000, guid: c85e90aa1a20bb6469c6b6f656813fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder01-FACES
+    second: {fileID: 2100000, guid: 4b96f237ea158ee4c9e788e6eb0fc1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder02-FACES.001
+    second: {fileID: 2100000, guid: fd652d7cb1643d3468abee751bb0e6dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder03-FACES.002
+    second: {fileID: 2100000, guid: 55d5bef271c3c134fa74b97c1e8998a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder04-FACES.001
+    second: {fileID: 2100000, guid: 517062f7a2ee770488742d47119b4da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder05-FACES
+    second: {fileID: 2100000, guid: f132bb2e1cdb1364d93fb2d6b9669b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder06-FACES
+    second: {fileID: 2100000, guid: a0cb87a00a478604aa56fd7e4adfa993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder07-FACES
+    second: {fileID: 2100000, guid: ea007662b7adcf44687da0c97cefe4ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder08-FACES
+    second: {fileID: 2100000, guid: d7115a223e3da8549884c47a2cd07089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder09-FACES
+    second: {fileID: 2100000, guid: 2f173b568841bc641aa2070cbe05bd20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder10-FACES
+    second: {fileID: 2100000, guid: bcead45475ae63540b879be788118236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder11-FACES
+    second: {fileID: 2100000, guid: 084d3d45ba56dab4fa8442da4db35864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder12-FACES
+    second: {fileID: 2100000, guid: 8ccf80369750a154bb6c7914f8d65855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder13-FACES
+    second: {fileID: 2100000, guid: 294a470befd203d41a044def63a11392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder14-FACES
+    second: {fileID: 2100000, guid: b8b7bc8ae1c4b334fb6e519063e4c7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder15-FACES
+    second: {fileID: 2100000, guid: f7915990680768c43bebafdc0bb49a16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder16-FACES
+    second: {fileID: 2100000, guid: 8b3233faf98c78e4fa7d90cf446c8cf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder17-FACES
+    second: {fileID: 2100000, guid: 6f7239c920f648e4db718396a690245a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder18-FACES
+    second: {fileID: 2100000, guid: 1ec0ad3430099ce49b1e44ffde84d50e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder19-FACES
+    second: {fileID: 2100000, guid: 48c50168fe95cf64289c9d915f6e1cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder20-FACES
+    second: {fileID: 2100000, guid: d36f62079c07fa346b125e4a51877b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder21-FACES
+    second: {fileID: 2100000, guid: 73aae9b4e29a80347a2b5ad8fd969512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line01-FACES.001
+    second: {fileID: 2100000, guid: 0317af66c9a34574abf8d292d379bb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line03-FACES
+    second: {fileID: 2100000, guid: 90decfdcac7d9da4aa641d446da039be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line04-FACES
+    second: {fileID: 2100000, guid: f9b7d01efa27bf547969f389e8d8e430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line05-FACES
+    second: {fileID: 2100000, guid: 9b2d8d0658903594ab2324517b08045f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line13-FACES
+    second: {fileID: 2100000, guid: eb88b5a2a0eff1247a60ab6ad28c3ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line14-FACES
+    second: {fileID: 2100000, guid: bde8052b05219974da3532a6e8766b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line15-FACES
+    second: {fileID: 2100000, guid: 6e2ad8f80c1853142badd4f10c40eb2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line16-FACES.001
+    second: {fileID: 2100000, guid: 217ede7d032c6bc4baf410941fe4115e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object01-FACES.001
+    second: {fileID: 2100000, guid: 90a6f9a911006074b8639aa00aba508e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object03-FACES.001
+    second: {fileID: 2100000, guid: 25d8a979cb088b2468687dd8b2b64885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object04-FACES.001
+    second: {fileID: 2100000, guid: 51c81cc67d5517047b22ca7c08247d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05-FACES
+    second: {fileID: 2100000, guid: c90ef465ee19e634ba96ed2bad7fe0d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object06-FACES
+    second: {fileID: 2100000, guid: d64d2e3143eb169409cdc93c756e6dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object07-FACES
+    second: {fileID: 2100000, guid: 2a95e5f0d45d85c4e864e7c11373a252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object08-FACES.001
+    second: {fileID: 2100000, guid: 98ac6cc7e4de59c4bb9937396de4c9ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object09-FACES.001
+    second: {fileID: 2100000, guid: 643d3f7d7fce17c4d8c2347ea9a51734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object10-FACES
+    second: {fileID: 2100000, guid: 71a505b2cbfaa804a83275a449a5febf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object11-FACES
+    second: {fileID: 2100000, guid: ed1b70c76ace90445918f1223b452dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object12-FACES
+    second: {fileID: 2100000, guid: 9ac7bcd6c2bc82049b92b61eac8ba10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere01-FACES
+    second: {fileID: 2100000, guid: 9b7b692f003d94f4db39c742badde8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere01-FACES_0
+    second: {fileID: 2100000, guid: 13519e21b31f621418cde3e14feb3663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere02-FACES
+    second: {fileID: 2100000, guid: 2eeace16993b4f54fbddb2d45744cfbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere02-FACES_0
+    second: {fileID: 2100000, guid: 44d4b790c0d477e4abe98861e47fc775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus01-FACES.001
+    second: {fileID: 2100000, guid: a8ebe9cafde60b04f89510ae779b0554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus02-FACES
+    second: {fileID: 2100000, guid: 16aca772da8cd4e4c8be118571a2a99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus03-FACES
+    second: {fileID: 2100000, guid: c8d6186b4c184f3438127ecfc6c4d7a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus04-FACES
+    second: {fileID: 2100000, guid: 508068414b7db2a46aa59cff09d26982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus05-FACES
+    second: {fileID: 2100000, guid: 4c4bdedc78dda394a8991bd1f52fc10a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus06-FACES
+    second: {fileID: 2100000, guid: 588f7ccccbc4f5b4f87952a81e38f369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus07-FACES
+    second: {fileID: 2100000, guid: ea44646c07676db4fbc33942aef1967d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus08-FACES
+    second: {fileID: 2100000, guid: 92b562f9253cc3149805dcced89cafa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dvig-FACES
+    second: {fileID: 2100000, guid: 308f6f45bd5aeff4ea95013e82feb2d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dvig01-FACES
+    second: {fileID: 2100000, guid: acbdb9ab339064d479851e09420b2095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dvig_stv-FACES
+    second: {fileID: 2100000, guid: 15d5e816a478c04409ee140414c268e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dvig_stv01-FACES
+    second: {fileID: 2100000, guid: 3edd1269b5b6fe84e8de37d53a7aa836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuzel_I01-FACES
+    second: {fileID: 2100000, guid: 8c0fd3c9c30d0ce4d81aabc208b0f537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuzel_I01-FACES_0
+    second: {fileID: 2100000, guid: cebbdbec94e01df4f963f0f3be6ab457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kabina-FACES
+    second: {fileID: 2100000, guid: 9f7ca232b6105994ead69878b48bc534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kabina-FACES_0
+    second: {fileID: 2100000, guid: 189af7485abead84eba7036204a67050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stvnos1-FACES
+    second: {fileID: 2100000, guid: 531b43ee095551642b944d3ef377db41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stvorknos-FACES
+    second: {fileID: 2100000, guid: bfa8cd4ddc0886f4ca81302f3ccde4b2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box01-FACES_baseColor
+    second: {fileID: 2800000, guid: f8896a64c543b6646b0e7fd797f4dc21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box02-FACES_baseColor
+    second: {fileID: 2800000, guid: 321f20e1d72c53c43b53e480e205aba5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box03-FACES_baseColor
+    second: {fileID: 2800000, guid: 09d7ac3b94da9d845982066d25e86596, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box04-FACES_baseColor
+    second: {fileID: 2800000, guid: e1b9ce34e9c128c4fa64c6725bfc8ecc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box05-FACES_baseColor
+    second: {fileID: 2800000, guid: e13d20a0944051a4e84f5a0b543e9b7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box06-FACES_baseColor
+    second: {fileID: 2800000, guid: b556874a37d98f342bff77190837e1ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box07-FACES_baseColor
+    second: {fileID: 2800000, guid: 2f31907800b80044bb52a7f8ae8afa80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box08-FACES_baseColor
+    second: {fileID: 2800000, guid: 745b1136c7f59c44dbc316f95d84f25d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box09-FACES_baseColor
+    second: {fileID: 2800000, guid: 603aa63fa6140344aabe0aac7c6e20e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box10-FACES_baseColor
+    second: {fileID: 2800000, guid: 7c3f1f166bc137e42baadf7d9e900dbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cone01-FACES_baseColor
+    second: {fileID: 2800000, guid: 91843c3b068f0144488aeb4d81d66513, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cone02-FACES_baseColor
+    second: {fileID: 2800000, guid: f28b73957af0dbb4f8c194aa90dc469d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder02-FACES_baseColor
+    second: {fileID: 2800000, guid: 8026bdfa85f36ed4e98d51fecdde7a7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder04-FACES_baseColor
+    second: {fileID: 2800000, guid: e3436d9ba05649d4e960091c8e66c077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder05-FACES_baseColor
+    second: {fileID: 2800000, guid: 014790358374ac841a9b090ecde39091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder06-FACES_baseColor
+    second: {fileID: 2800000, guid: ad3520e5ebe85304e83192c8e9a91a4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder07-FACES_baseColor
+    second: {fileID: 2800000, guid: 655f2602f4c3a054d9af92d42057f8d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder08-FACES_baseColor
+    second: {fileID: 2800000, guid: b9656fbca27ba3942b452c70ff1265ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder10-FACES_baseColor
+    second: {fileID: 2800000, guid: d96a4f732bbcd0f47894925312edce37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder11-FACES_baseColor
+    second: {fileID: 2800000, guid: be404feddf0fdc64481146606ba0f7cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder14-FACES_baseColor
+    second: {fileID: 2800000, guid: b226ef48f74a2a146aa5481b2fe74511, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder15-FACES_baseColor
+    second: {fileID: 2800000, guid: aed3baafcf96de347a445953ae145224, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder16-FACES_baseColor
+    second: {fileID: 2800000, guid: a39379c9729a09f429d785efb282e95a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder17-FACES_baseColor
+    second: {fileID: 2800000, guid: 19916afa75b3af14fa282a470ab0c274, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder18-FACES_baseColor
+    second: {fileID: 2800000, guid: 4aa2fa5f4fa59e344a7871629c7b4f61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder20-FACES_baseColor
+    second: {fileID: 2800000, guid: 8931e2c96fcb69c4fbabccc7651916a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cylinder21-FACES_baseColor
+    second: {fileID: 2800000, guid: aa3a341639c60c84fadab70f4bda23e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line01-FACES_baseColor
+    second: {fileID: 2800000, guid: 094c2f4fe7b98994c82c65acd9700294, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line03-FACES_baseColor
+    second: {fileID: 2800000, guid: 6537365418dae4642bcf496b787ee1a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line04-FACES_baseColor
+    second: {fileID: 2800000, guid: 377351c1d3ac09c43af6fa92c4c01795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line05-FACES_baseColor
+    second: {fileID: 2800000, guid: 9f1aa3e098c5b3048a7a1d29d7258a60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line13-FACES_baseColor
+    second: {fileID: 2800000, guid: d37fe29fae420764b8440527127d85c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line14-FACES_baseColor
+    second: {fileID: 2800000, guid: 2b414fe8dd2779c468a72a8104d03484, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line15-FACES_baseColor
+    second: {fileID: 2800000, guid: a5d5b7f07ddbf2442b17922d90f8e470, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line16-FACES_baseColor
+    second: {fileID: 2800000, guid: c9542f7e47c11f54eab84f8056fe6a84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object01-FACES_baseColor
+    second: {fileID: 2800000, guid: b4772e6f3781e5a4a86ee64325ac27e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object03-FACES_baseColor
+    second: {fileID: 2800000, guid: 5c83c1e9a1520f54db0d8f10668b788d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object04-FACES_baseColor
+    second: {fileID: 2800000, guid: dbd4f3205c07f8c498c8fbd40580fbf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object05-FACES_baseColor
+    second: {fileID: 2800000, guid: a287d68a6b367f149bde420e142f03d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object06-FACES_baseColor
+    second: {fileID: 2800000, guid: d400e9eb58d925543b8aed5c034b8c31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object07-FACES_baseColor
+    second: {fileID: 2800000, guid: cc76a7be553aa4043942cc63ca6b02e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Object12-FACES_baseColor
+    second: {fileID: 2800000, guid: e18ca0213b05e264f9fd2814d77299bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere01-FACES_baseColor
+    second: {fileID: 2800000, guid: 54c06ee5d24da0e4199529d2fc82d099, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sphere02-FACES_baseColor
+    second: {fileID: 2800000, guid: 966347f1c823e504f8ac194252acfc9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus01-FACES_baseColor
+    second: {fileID: 2800000, guid: 5a8e5438ffdddfd48a364f691dd405e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus02-FACES_baseColor
+    second: {fileID: 2800000, guid: f8f2915bc7936314f9bbf29287fd5806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus03-FACES_baseColor
+    second: {fileID: 2800000, guid: 0ba4caed41e92264a92fc2ddbad6802b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus04-FACES_baseColor
+    second: {fileID: 2800000, guid: a4f1c5a6446e1de48b0dfcd2e091bae8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus05-FACES_baseColor
+    second: {fileID: 2800000, guid: f66a0d8cc417de54d9dd47d94698351f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus06-FACES_baseColor
+    second: {fileID: 2800000, guid: db1e548762e01e7429c3f1c8c4527f2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus07-FACES_baseColor
+    second: {fileID: 2800000, guid: 80eab81b526fac142bef652b0880edb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Torus08-FACES_baseColor
+    second: {fileID: 2800000, guid: 70735297258363e48aada7b3060e7396, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dvig-FACES_baseColor
+    second: {fileID: 2800000, guid: aae750d9daa699b479f887f03df0c703, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dvig01-FACES_baseColor
+    second: {fileID: 2800000, guid: c57addb5017abe34cbf7efbedb3faabf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fuzel_I01-FACES_baseColor
+    second: {fileID: 2800000, guid: af5f97874a7378d46bf252d1073077db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stvnos1-FACES_baseColor
+    second: {fileID: 2800000, guid: 8e3823fab3e57f4448a1fc4e6ca27625, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stvorknos-FACES_baseColor
+    second: {fileID: 2800000, guid: cd507215d24a5fe43bf4f71bdcc947f5, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

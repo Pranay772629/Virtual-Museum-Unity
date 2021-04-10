@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: f9bba9b86463f5e4c84515ef4f7122a2
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite.002
+    second: {fileID: 2100000, guid: 466b2eb981407b548938b0e935883580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_NONE.001
+    second: {fileID: 2100000, guid: f80bd9c2d34d81d4baa4ed12dd74a63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_alt.png.002
+    second: {fileID: 2100000, guid: 170c9e5331d6e354fb74c50fc724d02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_asi.png.001
+    second: {fileID: 2100000, guid: f38acc90dad442c49af3c7e715a27eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_attitude.png
+    second: {fileID: 2100000, guid: 8bb6bb3a63ff1364fb85cbb0e9ac0340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_clock.png
+    second: {fileID: 2100000, guid: f2b09e6ca5247f346a73502efdd12766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_colors.png
+    second: {fileID: 2100000, guid: b6ea023b67c980c468747f7845fe8a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_compas.png
+    second: {fileID: 2100000, guid: 85922138be703054c986fa85fb971e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_fuelpress.png
+    second: {fileID: 2100000, guid: 52d63082f25c38b488ba9ca1d86edf89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_interior.png.002
+    second: {fileID: 2100000, guid: 70227b32f219f214087ae2712c7f9840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_mag.png
+    second: {fileID: 2100000, guid: 1e980dcb13c771c43b46b8fe20fe8803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oilpress.png
+    second: {fileID: 2100000, guid: c26867fb5dc5eb1458fce33d337d9fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oiltemp.png
+    second: {fileID: 2100000, guid: 18c8bace6d029b54986267c3fef550a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_rpm.png.001
+    second: {fileID: 2100000, guid: 508ad0a480b13af4ea9ab7a598661af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_texture.png
+    second: {fileID: 2100000, guid: 7076323dccc3cdf4a9e782ed7df86a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_turn.png.003
+    second: {fileID: 2100000, guid: 0c02e522db4dd374ab9551245dd16e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transparent2
+    second: {fileID: 2100000, guid: df3e68ccfd4cfdb45a042d53a232e63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent.002
+    second: {fileID: 2100000, guid: b1e308d0f8056404699b4848e62b895c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_alt.png_baseColor
+    second: {fileID: 2800000, guid: 8830d441daf336942986bc14a3c1cdd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_asi.png_baseColor
+    second: {fileID: 2800000, guid: b4c855ea668fdfe43a57fcf380646e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_attitude.png_baseColor
+    second: {fileID: 2800000, guid: 5c54dec5525e1114e8d0c95df5ebeb52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_baseColor
+    second: {fileID: 2800000, guid: 62bb6f9746d7bf240b14ad39b2a73980, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_clock.png_baseColor
+    second: {fileID: 2800000, guid: 464b07ae6a53faf4d8b5823640acdd0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_colors.png_baseColor
+    second: {fileID: 2800000, guid: 6ae03c3e7c3da4d47910a17fcf514b96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_compas.png_baseColor
+    second: {fileID: 2800000, guid: c62f71c583061d0468d5a6165e52cc01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_fuelpress.png_baseColor
+    second: {fileID: 2800000, guid: 80ca5e5489f071143be871045a292f94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_interior.png_baseColor
+    second: {fileID: 2800000, guid: 418334994f783ef40b5fefa606c79433, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_mag.png_baseColor
+    second: {fileID: 2800000, guid: d0724447b5aa164488391cadbb33bba5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oilpress.png_baseColor
+    second: {fileID: 2800000, guid: 68711b91f8d5a2842bfe088831172f78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_oiltemp.png_baseColor
+    second: {fileID: 2800000, guid: 2df556a8d03e08241859cc2644bae198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_rpm.png_baseColor
+    second: {fileID: 2800000, guid: 28e34cde8c2f5ef4fadcc0ab4a178329, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_texture.png_baseColor
+    second: {fileID: 2800000, guid: 9e96b76b383e7054391383a6e86dd48d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultWhite_turn.png_baseColor
+    second: {fileID: 2800000, guid: c72c10095bc456a49800914a449b5843, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

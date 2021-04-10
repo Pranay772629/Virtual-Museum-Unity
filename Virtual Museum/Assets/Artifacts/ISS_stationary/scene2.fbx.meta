@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: c62e5493a2e66c14ea8a3169c0fce059
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_dark
+    second: {fileID: 2100000, guid: 10edfef3247b0484483f13a59cd85b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_dull.002
+    second: {fileID: 2100000, guid: e218b07341ad5734e9bd0eeb55297b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_shiny_n.002
+    second: {fileID: 2100000, guid: 251df6c1d1150df44953cb79a4c0703e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_02_dark
+    second: {fileID: 2100000, guid: 2d43ce09bd6d7574bb1e10b7c008dd26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_02_dull.002
+    second: {fileID: 2100000, guid: 41d56d889ece44b478f9c50a650072b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull.006
+    second: {fileID: 2100000, guid: 9ac31d31e305a3446802ce0da790445b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull.007
+    second: {fileID: 2100000, guid: aa9a812bd7b5c0f46b581c9c758a351b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull.008
+    second: {fileID: 2100000, guid: 6b31d927f01d1624e97e2707aa43fbec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_shiny_n.002
+    second: {fileID: 2100000, guid: eb82d9d53a8eb9747b1eb4b908c0f6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_04_dull.002
+    second: {fileID: 2100000, guid: 2e04b99690394b9489e7f563981a70a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_01.002
+    second: {fileID: 2100000, guid: ca34904e3ff720140803f6ccfd33e480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_02.002
+    second: {fileID: 2100000, guid: 6214660607cad7841926e8f848da1850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_03.002
+    second: {fileID: 2100000, guid: 52fd3ab5ff0c3c046a23042bda79a73d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_04.002
+    second: {fileID: 2100000, guid: ef09e8386a4f6d048a9d7b9d95b5fc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_05.002
+    second: {fileID: 2100000, guid: d444c7352378f3a438bd61c6351b429c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_06.002
+    second: {fileID: 2100000, guid: 1b4012a8b5a491b4d85135e01f7db1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_07.002
+    second: {fileID: 2100000, guid: 6c1045d63257b3e45b87acf163af6460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_08.002
+    second: {fileID: 2100000, guid: 8c2fa3c42c6afba48b6975f391b033a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base_metal.002
+    second: {fileID: 2100000, guid: aaa8b09f3a4cd2d46ad67235d1c2d5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecostress.002
+    second: {fileID: 2100000, guid: d2d7411915a1f464a882b684ff0c0714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecostress_dexter.002
+    second: {fileID: 2100000, guid: 1a2f5e7f5ae42ba4087324b8ef5f97d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecostress_metal
+    second: {fileID: 2100000, guid: 7063c2965349e5f43ac887b0229d536b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver.003
+    second: {fileID: 2100000, guid: 5e5e9604e38046e48b3b73b12cf79778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0.001
+    second: {fileID: 2100000, guid: 96c5b1604c2ced34eb65de09a1f00fcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: olive
+    second: {fileID: 2100000, guid: 86332abfc68dd614aa0564eb32573698, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_black
+    second: {fileID: 2100000, guid: 32a4c023f3f60fd49bd69988c6cac428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shiny_panel.003
+    second: {fileID: 2100000, guid: 5851c941cb6b4b84cabb0dbe140a2d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white.002
+    second: {fileID: 2100000, guid: 56f022e0898618b4f9f063a3b65461e1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_dark_baseColor
+    second: {fileID: 2800000, guid: 7a5ec1e71416b054ba6dbea41758d747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_dull_baseColor
+    second: {fileID: 2800000, guid: f94c8bfe365c22a408153d3bd709bfd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_shiny_n_baseColor
+    second: {fileID: 2800000, guid: 8102c9e6018c5fa4eb4fdf7e4f5f313e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_01_shiny_n_normal
+    second: {fileID: 2800000, guid: 9dc73b93c10fd364aa9764b8db09d1b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_02_dark_baseColor
+    second: {fileID: 2800000, guid: 647b17e2c9a5384439ac9e8161fe29db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_02_dull_baseColor
+    second: {fileID: 2800000, guid: 39aaa6d4d5501ec408bceafadf5fd658, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull.001_baseColor
+    second: {fileID: 2800000, guid: 06a22310ddf0b214c81926a73e48bd24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull.002_baseColor
+    second: {fileID: 2800000, guid: 5941e43001dea1b45af0760e70b50692, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_dull_baseColor
+    second: {fileID: 2800000, guid: 476b5a02cf43dae4fa5d98cbea3f3983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_shiny_n_baseColor
+    second: {fileID: 2800000, guid: a6ce218c68749e242bc5fed74cd9e91e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_03_shiny_n_normal
+    second: {fileID: 2800000, guid: 3f3eb010526528a4bbaa63246e5f6158, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_04_dull_baseColor
+    second: {fileID: 2800000, guid: f5cf6b792ed08f341bd2050b04b6d637, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_01_baseColor
+    second: {fileID: 2800000, guid: 5a6f619cd4437a845bcaf311d0d723db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_02_baseColor
+    second: {fileID: 2800000, guid: 322d33a1ff880fb43b5a09b19b57ca3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_03_baseColor
+    second: {fileID: 2800000, guid: 4fe0d2cc45ede9c4fadca9c3e59e168c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_04_baseColor
+    second: {fileID: 2800000, guid: a7dc7802afd6ff44fb57c5492cbaea41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_05_baseColor
+    second: {fileID: 2800000, guid: 28395e2bac5335645a5ca9b7b7218119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_06_baseColor
+    second: {fileID: 2800000, guid: 3025e4004b8be124b812988c26730d52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_07_baseColor
+    second: {fileID: 2800000, guid: 0f48bfeeb7e45634f81c86000453ec71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ISS_AO_08_baseColor
+    second: {fileID: 2800000, guid: 71a0d3d4ab829c04db7e1307666d80af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ecostress_baseColor
+    second: {fileID: 2800000, guid: 53a1c13a1ac99414b9e29225a168f95b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ecostress_dexter_baseColor
+    second: {fileID: 2800000, guid: 29ee2f64c4e9eb545b76a13487ad5730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ecostress_metal_baseColor
+    second: {fileID: 2800000, guid: 613359f38b791b441924b6b6ad74c98f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: foil_silver_normal
+    second: {fileID: 2800000, guid: c51633b42e6ed0c43a68e1278e9e23f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shiny_panel_baseColor
+    second: {fileID: 2800000, guid: 4d082f595e475b94d89bc564034082a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_normal
+    second: {fileID: 2800000, guid: a63f4a99684f0394fa0b6f069f1fc407, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

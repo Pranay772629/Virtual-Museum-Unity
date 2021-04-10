@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: c8c9e0cb17123e346aaf4a57e7d4255b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box01-FACES.001
+    second: {fileID: 2100000, guid: f0d3844e4967c4a4cba55b95daae4cb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box02-FACES.001
+    second: {fileID: 2100000, guid: 58cc8949743cdfb49a15d0a57b301961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box03-FACES.001
+    second: {fileID: 2100000, guid: daf430d3a27a8b44c99ca3eb21cf0a50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box04-FACES.001
+    second: {fileID: 2100000, guid: 387951549c517a2409d40864abcf9c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box05-FACES.001
+    second: {fileID: 2100000, guid: a7d86c2163baa514db935456be485148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cone01-FACES.001
+    second: {fileID: 2100000, guid: 2c16a6b85ac163e48a67bfdbc8a52441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder04-FACES.001
+    second: {fileID: 2100000, guid: f856e3ed1c2f13649b01d67bbeb44d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line01-FACES.001
+    second: {fileID: 2100000, guid: a87fce0dee20f284ca89707121834891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line03-FACES.001
+    second: {fileID: 2100000, guid: cf4ac3b41e1b7bf4ea932feb20702f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line05-FACES.001
+    second: {fileID: 2100000, guid: e933fc96fffe0a54cbc385220ceea5eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line06-FACES.001
+    second: {fileID: 2100000, guid: 012257c2c1d808a448f1825d3f7c1c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line16-FACES.001
+    second: {fileID: 2100000, guid: 63ce43a5c2bf1b248b9ea845e54f8366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line17-FACES.001
+    second: {fileID: 2100000, guid: 107bc98d3f815334b9a266231b472917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus01-FACES.001
+    second: {fileID: 2100000, guid: 5bc566116e62b044681414479834d1d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus02-FACES.001
+    second: {fileID: 2100000, guid: cb10f1373a43eba469947563348041a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus03-FACES.001
+    second: {fileID: 2100000, guid: 448374067fc136540955bdab64a58228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube03-FACES.001
+    second: {fileID: 2100000, guid: db5c94cca04bc734e943755576aa0477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eleron-FACES.001
+    second: {fileID: 2100000, guid: 9d56186962a375541a79b7b859a1fcf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eleron01-FACES.001
+    second: {fileID: 2100000, guid: 46cbdcdf894951d4b9f87f9e452f1ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fonar-FACES.001
+    second: {fileID: 2100000, guid: 13798564f2f3a864984722e027a35cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuzel-FACES.001
+    second: {fileID: 2100000, guid: dc7656bad3a2ab648bf53459285f7d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gor_oper02-FACES.001
+    second: {fileID: 2100000, guid: 2e6bf0eaa12623f41826f12d99b04348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gor_oper03-FACES.001
+    second: {fileID: 2100000, guid: 3a31d0f80c70c3c4abab8e6ec9f2f5f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kapot-FACES.001
+    second: {fileID: 2100000, guid: 2a0a8535b691a6246aec905f1bbbb88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kil-FACES.001
+    second: {fileID: 2100000, guid: 1c9cc11a5cab1af469511d083c93be05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krilo-FACES.001
+    second: {fileID: 2100000, guid: c55573f4511f99549bb6d85104ab1527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krilo01-FACES.001
+    second: {fileID: 2100000, guid: 05fb6cf235bd49347996d9b0f9cd6471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_0.001
+    second: {fileID: 2100000, guid: 000c6ac21e200d0439e2d36987419a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1.001
+    second: {fileID: 2100000, guid: 32fc4a03758db1341b44176505a53d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2.001
+    second: {fileID: 2100000, guid: ac8c9cba138ed0b488bfd720b52ebf18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_3.001
+    second: {fileID: 2100000, guid: 446be91e95a9a204f89b2684ffb972b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: obtek-FACES.001
+    second: {fileID: 2100000, guid: ea12631096521a94caa1d79ae7dbb890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: opora-FACES.001
+    second: {fileID: 2100000, guid: 2c1a67074a0af4a43938dfc8df73f7fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podkos-FACES.001
+    second: {fileID: 2100000, guid: 13e17891e6b9b164b8966daf71026611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podkos1-FACES.001
+    second: {fileID: 2100000, guid: 5030f1b17f508a549975e18f044ea231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pvd-FACES.001
+    second: {fileID: 2100000, guid: be3509b1319c34d46bdb29b8c1ee0563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rul_napr-FACES.001
+    second: {fileID: 2100000, guid: d6eee79f98bd4d94184a3d068a75233e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rul_vis-FACES.001
+    second: {fileID: 2100000, guid: 73d2b3ceb594ecf449e5f7f7da90e3d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rul_vis01-FACES.001
+    second: {fileID: 2100000, guid: f4740b3bd870b15469c49223b97f1d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stoyk-FACES.001
+    second: {fileID: 2100000, guid: 93ccf8c362cf5984fb3dc4536b016e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stup0-FACES.001
+    second: {fileID: 2100000, guid: b4815cb00fa2834478f822ce0043a9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stup1-FACES.001
+    second: {fileID: 2100000, guid: 333e90096af099942866f39ee53be830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stup3-FACES.001
+    second: {fileID: 2100000, guid: dffbebe633973bd4d97548d484ee191e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box03-FACES_baseColor
+    second: {fileID: 2800000, guid: ebd8feabbc662dc4dbf1ccd640ff5a12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cone01-FACES_baseColor
+    second: {fileID: 2800000, guid: d871e1e1179841e469e5e869aa00fec0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line05-FACES_baseColor
+    second: {fileID: 2800000, guid: 2ae57cd8f4325c94485fbf69accfe7b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line06-FACES_baseColor
+    second: {fileID: 2800000, guid: 8ac2bc42b8e21f443bfd22f11625b664, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line16-FACES_baseColor
+    second: {fileID: 2800000, guid: 8412542c162ff284a939a673082c7a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Line17-FACES_baseColor
+    second: {fileID: 2800000, guid: 0616cff65e43dec488d2c7da66c3e861, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eleron-FACES_baseColor
+    second: {fileID: 2800000, guid: 89d31161be75aaa41961ef8c248637eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fuzel-FACES_baseColor
+    second: {fileID: 2800000, guid: 1f46e005ce50e8e43ac3a39aa783b7af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gor_oper02-FACES_baseColor
+    second: {fileID: 2800000, guid: 59c54e36562ed9a4488c2ef88e44543f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gor_oper03-FACES_baseColor
+    second: {fileID: 2800000, guid: 6261b30a0e419bf49a647fc347b91ea5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kapot-FACES_baseColor
+    second: {fileID: 2800000, guid: c7c84cf0c945d234483289bd7c737b06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kil-FACES_baseColor
+    second: {fileID: 2800000, guid: 5690b405490e0824090b46190b21d454, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: krilo-FACES_baseColor
+    second: {fileID: 2800000, guid: 34ecffd2d9d07194b8bcbe4dd7fbe2a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: krilo01-FACES_baseColor
+    second: {fileID: 2800000, guid: f446b6622f40ac44aa4c61bb214898e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: opora-FACES_baseColor
+    second: {fileID: 2800000, guid: bb217c5bb467a4e4fafd62bb65b7d93a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rul_napr-FACES_baseColor
+    second: {fileID: 2800000, guid: 9eae837e1a5619c4cace58a06310f11e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rul_vis-FACES_baseColor
+    second: {fileID: 2800000, guid: 87ad11ad62b75a745939ddb3ea0fab38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rul_vis01-FACES_baseColor
+    second: {fileID: 2800000, guid: 0d71a9e14ed9fad43a332e2152395549, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stup0-FACES_baseColor
+    second: {fileID: 2800000, guid: 6a508831766c2534e80c59c486cfd07a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stup1-FACES_baseColor
+    second: {fileID: 2800000, guid: b943c413fbd0dda49894c797809798d8, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 73a00b4c9ff7f27489179bc64e88a314
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CCCP_red
+    second: {fileID: 2100000, guid: 244a36072d078b0478f875534529f067, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COMMANDMODBLACK
+    second: {fileID: 2100000, guid: b6d8d4f94c8647843b6c2791e392b0f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COMMANDMODGLASS
+    second: {fileID: 2100000, guid: 58bd0636b6bac0d4b9e9df49b160c186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEMGREY
+    second: {fileID: 2100000, guid: 553166ae7fc0a4e4e9395caa9cca07af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEMRED
+    second: {fileID: 2100000, guid: fdbbc296a48b1eb4191e70608129c9c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SERVICEMODUS
+    second: {fileID: 2100000, guid: 2f34eb64c332ed048a4f42e9b8dcb572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUSTER01
+    second: {fileID: 2100000, guid: 29480368bea04b245906309d523c416d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUSTER01INSID
+    second: {fileID: 2100000, guid: 2e3db2e3b332f994291cb74e12c42756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUSTER01WHITE
+    second: {fileID: 2100000, guid: 6ad403ffe0cae5e48b0567a590778e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUSTERMAINBLA
+    second: {fileID: 2100000, guid: a0b3fda293d58b74bbc91d597c1dac5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THRUSTERMAINSIL
+    second: {fileID: 2100000, guid: c9126d2f065420843962f2d540fa82cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRUNK
+    second: {fileID: 2100000, guid: 424a918a78e4e5d428ceef2061d6572a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: USFLAGBLUE
+    second: {fileID: 2100000, guid: ade7b4f9373352d4bb00a0c12052657b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: USFLAGRED
+    second: {fileID: 2100000, guid: b042830cd0b24554c8467192a4d1148f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: astp_metal
+    second: {fileID: 2100000, guid: a4018e9e24036194a90bc6c10fe7f550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cccp_flag
+    second: {fileID: 2100000, guid: fc388f8e926a99843a83f38ff65c4595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soyuz_brown
+    second: {fileID: 2100000, guid: 7ebd8bcdebdee1e4b826cb7f5acd1f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soyuz_green
+    second: {fileID: 2100000, guid: e500c927610c3224b823a48ea26a2842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soyuz_solar
+    second: {fileID: 2100000, guid: 9726b9ceccbd63d4d924e92637bbfc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soyuz_thruster
+    second: {fileID: 2100000, guid: 873d3bf6d9cbd04488a444091465801d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soyuz_white
+    second: {fileID: 2100000, guid: f52fbb858eef9114090b9cb23e362f2a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cccp_flag_baseColor
+    second: {fileID: 2800000, guid: a685ca320277b334fa606a10577ea14c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: soyuz_solar_baseColor
+    second: {fileID: 2800000, guid: 697ed10c2053a5f4dbeb16923da36a6a, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

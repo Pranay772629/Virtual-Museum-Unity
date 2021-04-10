@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02f9653e969ec11459c0ebb367b07cb8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Albedo: {fileID: 2800000, guid: aa78f40597b7f474299a2b81d76eb80a, type: 3}
+  - _Normal: {fileID: 2800000, guid: 01b613412f766b04e8c6f4165aef820e, type: 3}
+  - _Metallic: {instanceID: 0}
+  - _Smoothness: {fileID: 2800000, guid: 671ffec92ccdc454bb4a1962709fdcf2, type: 3}
+  - _Height: {fileID: 2800000, guid: c2aad0ca3f333cd46ae70f27cdbbfefb, type: 3}
+  - _AO: {fileID: 2800000, guid: 87b24c57073d5b447928e2648ff7b1f4, type: 3}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
